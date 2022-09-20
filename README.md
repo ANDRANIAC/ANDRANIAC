@@ -1,4 +1,4 @@
-# Hey There! Im Andrew 👋😎
+# Hey There! Im Andrew Hall👋😎
 
 <p><em>Software Engineer
 Junior at Carleton University studying Honors Computer Science with a specialization in Internet Security.</em></p> 
